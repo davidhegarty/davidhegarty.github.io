@@ -3421,14 +3421,6 @@
 	}
 
 .avatar {
-    background:url(../img/Dave_Avatar_clr_bkgd.png) no-repeat center top; /* 170px x 200px */
-    position:absolute;             /* position in the center of the screen */
-    left:0%;
-    top:0%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
-    text-align:center;
-    padding:220px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:100px 0px 0px 50px;  /* offset vertical: half of image height and text area height */
-                                   /* offset horizontal: half of text area width */
+    width:  175px;
+    height: auto;
 }
